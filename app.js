@@ -39,6 +39,7 @@ function love() {
 
 // Add eventlistener to button
 calcBtn.addEventListener("click", function (e) {
+  loveScore = Math.random() * 100; //delete this line if you want to keep the same value in the same session.
   e.preventDefault();
   if (yourName.value == "" && theirName.value == "") {
     alert("You can't leave fields empty");
