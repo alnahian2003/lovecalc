@@ -100,7 +100,7 @@ calcBtn.addEventListener("click", function (e) {
       "<b>" +
       capitalize_Words(theirName.value) +
       "</b>" +
-      " love each other Marie & Pierre Curie. That's a good combination. You are a good example of true love.";
+      " love each other like Marie & Pierre Curie. That's a good combination. You are a good example of true love.";
   } else if (loveScore <= 60) {
     yourlovescoreis.innerHTML = "Your Love Score is";
     love();
