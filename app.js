@@ -3,7 +3,7 @@
   ============================*/
 // Start Code
 // 05 Sep July 2020
-// Al Nahian | https://alnahian.xyz
+// Al Nahian | https://alnahian2003.github.io
 
 // global variables
 var yourName = document.getElementById("yourname"),
